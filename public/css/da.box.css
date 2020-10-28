@@ -1,0 +1,18 @@
+.hello{
+    margin-top: 10px;
+    float:right;
+    color:#fff
+}
+.manage{
+    height: 450px;
+    
+}
+
+.hello{
+    font-family: "poppins", sans-serif;
+    padding-top: 50px;
+    font-size: 50px;
+    width: 25%;
+    font-weight: bolder;
+    color:yellow;
+}
